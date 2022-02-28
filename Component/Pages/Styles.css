@@ -1,0 +1,7 @@
+.container{
+    width:max-content;
+}
+.Header{
+    display: flex;
+    background-color: red;
+}
