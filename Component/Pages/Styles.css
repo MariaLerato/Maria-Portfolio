@@ -2,7 +2,7 @@
     /* width:100%; */
     background-color:#efe9f6;
     /* overflow: hidden; */
-    height: 200vh;
+    height: 250vh;
     overflow: hidden;
 
 }
@@ -46,7 +46,7 @@ body{
 .details{
     width: 80%;
     color:#7a1bab;
-    padding-top: 1%;
+    margin-top: -2%;
    
 }
 .details p{
@@ -168,7 +168,8 @@ body{
     margin-top: -17%;
     /* align-content: center;
    */  text-align: center;
-   overflow-y: hidden;
+   /* overflow-y: hidden; */
+   margin-bottom: 5%;
 }
 .ContainerProjects h1{
     font-family: lobster ;
@@ -312,7 +313,7 @@ body{
     /* background-color: white; */
 }
 .card4:hover  .contentContainer a {
-    color: rgb(85, 84, 84);
+    color: rgba(24, 168, 204, 0.945);
     transition: 0.8s;
     width: 100%;
     height: 90%;
